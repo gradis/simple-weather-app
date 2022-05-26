@@ -13,7 +13,7 @@
 - Axios
 
 **Styling**
-Tailwind CSS
+- Tailwind CSS
 
 
 'npm start' - to run project
