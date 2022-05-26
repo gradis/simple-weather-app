@@ -17,3 +17,6 @@
 
 
 'npm start' - to run project
+
+
+![my screenshot](./src/assets/app.png)
